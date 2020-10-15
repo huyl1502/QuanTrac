@@ -1,0 +1,16 @@
+F:\Project\QuanTrac\QuanTrac\QuanTrac\bin\Debug\netstandard2.0\QuanTrac.deps.json
+F:\Project\QuanTrac\QuanTrac\QuanTrac\bin\Debug\netstandard2.0\QuanTrac.dll
+F:\Project\QuanTrac\QuanTrac\QuanTrac\bin\Debug\netstandard2.0\ref\QuanTrac.dll
+F:\Project\QuanTrac\QuanTrac\QuanTrac\bin\Debug\netstandard2.0\QuanTrac.pdb
+F:\Project\QuanTrac\QuanTrac\QuanTrac\bin\Debug\netstandard2.0\MvcEngine.dll
+F:\Project\QuanTrac\QuanTrac\QuanTrac\bin\Debug\netstandard2.0\Newtonsoft.Json.Bson.dll
+F:\Project\QuanTrac\QuanTrac\QuanTrac\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+F:\Project\QuanTrac\QuanTrac\QuanTrac\obj\Debug\netstandard2.0\QuanTrac.csprojAssemblyReference.cache
+F:\Project\QuanTrac\QuanTrac\QuanTrac\obj\Debug\netstandard2.0\QuanTrac.AssemblyInfoInputs.cache
+F:\Project\QuanTrac\QuanTrac\QuanTrac\obj\Debug\netstandard2.0\QuanTrac.AssemblyInfo.cs
+F:\Project\QuanTrac\QuanTrac\QuanTrac\obj\Debug\netstandard2.0\QuanTrac.csproj.CopyComplete
+F:\Project\QuanTrac\QuanTrac\QuanTrac\obj\Debug\netstandard2.0\QuanTrac.dll
+F:\Project\QuanTrac\QuanTrac\QuanTrac\obj\Debug\netstandard2.0\ref\QuanTrac.dll
+F:\Project\QuanTrac\QuanTrac\QuanTrac\obj\Debug\netstandard2.0\QuanTrac.pdb
+F:\Project\QuanTrac\QuanTrac\QuanTrac\obj\Debug\netstandard2.0\QuanTrac.csproj.CoreCompileInputs.cache
+F:\Project\QuanTrac\QuanTrac\QuanTrac\obj\Debug\netstandard2.0\XamlC.stamp

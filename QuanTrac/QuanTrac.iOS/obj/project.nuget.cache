@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLr9V7/E4CbYHAMeCBjbjzWdP4yVR1+tMQkBLngTmsFrhnrC5vD5LTE24U8i7j7ZZ2RlzAIbBVAvKmYgkKzwTg==",
+  "success": true,
+  "projectFilePath": "F:\\Project\\QuanTrac\\QuanTrac\\QuanTrac.iOS\\QuanTrac.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\huyl1\\.nuget\\packages\\xamarin.forms\\4.8.0.1534\\xamarin.forms.4.8.0.1534.nupkg.sha512"
+  ],
+  "logs": []
+}
